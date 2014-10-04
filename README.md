@@ -4,22 +4,21 @@ The Startup Jigsaw - Pieces
 
 ## Uncategorized
 - Piece #1: The 4 Areas of Startup Success
-Great idea, great product, great team and great execution. (1)
+  Great idea, great product, great team and great execution. (1)
 
-*Note: Can Team be split up into Founder(s) and Team?*
+  *Note: Can Team be split up into Founder(s) and Team?*
 
 - Piece #5: Great companies start with a great idea, not a pivot
 
 
 - Piece #2: The (IxPxTxE)xL equation
-Startup success can be, albeit a bit humorously, calculated as the following:
-	
-	Idea x Product x Team x Execution x Luck
+  Startup success can be, albeit a bit humorously, calculated as the following:
 
-Where luck is a number between 0 and 10.000. (2)
+  	Idea x Product x Team x Execution x Luck
 
+  Where luck is a number between 0 and 10.000. (2)
 
-*Note: In relation to my note on Piece #1 this would add F to the equation e.g. (FxIxPxTxE)xL*
+  *Note: In relation to my note on Piece #1 this would add F to the equation e.g. (FxIxPxTxE)xL*
 
 
 ## Idea
@@ -27,6 +26,8 @@ Where luck is a number between 0 and 10.000. (2)
 - Piece #7: If it's not your itch, get extremely close to those with the itch
 - Piece #8: Side projects make better startups than conscious business ideas
 - Piece #9: Work on stuff that interests you
+- Piece #13: The best ideas always first seem crazy
+  Judge by the people instead of the idea.
 
 
 
@@ -48,6 +49,12 @@ It is always good to be smart, but determination seems to be the most important 
 ## Execution
 - Piece #4: Do Things That Don't Scale
 
+
+## Growth
+- Piece #10: Growth Hacking === Bullshit
+- Piece #11: Focus on making a small amount of people love your product
+- Piece #12: Make something people want, stupid
+  *Note: The MSPWS-principle? Doesn't really roll off the tongue...*
 
 
 ## Sources
