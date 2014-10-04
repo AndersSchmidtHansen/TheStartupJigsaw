@@ -4,6 +4,7 @@ The Startup Jigsaw - Pieces
 
 ## Uncategorized
 - Piece #1: The 4 Areas of Startup Success
+  
   Great idea, great product, great team and great execution. (1)
 
   *Note: Can Team be split up into Founder(s) and Team?*
@@ -12,9 +13,10 @@ The Startup Jigsaw - Pieces
 
 
 - Piece #2: The (IxPxTxE)xL equation
+  
   Startup success can be, albeit a bit humorously, calculated as the following:
 
-  	Idea x Product x Team x Execution x Luck
+  	`Idea x Product x Team x Execution x Luck`
 
   Where luck is a number between 0 and 10.000. (2)
 
@@ -22,11 +24,12 @@ The Startup Jigsaw - Pieces
 
 
 ## Idea
-- Piece #6: Scratch your own itch first
+- Piece #6: Scratch your own itch first (make stuff you yourself want) 
 - Piece #7: If it's not your itch, get extremely close to those with the itch
 - Piece #8: Side projects make better startups than conscious business ideas
 - Piece #9: Work on stuff that interests you
 - Piece #13: The best ideas always first seem crazy
+  
   Judge by the people instead of the idea.
 
 
@@ -37,7 +40,8 @@ The Startup Jigsaw - Pieces
 
 ## Founder(s)
 - Piece #3: Determination trumps Intelligence
-It is always good to be smart, but determination seems to be the most important trait for a founder. (3)
+  
+  It is always good to be smart, but determination seems to be the most important trait for a founder. (3)
 
 - Piece #4: If you are not tough, your co-founder needs to be
 
@@ -54,6 +58,7 @@ It is always good to be smart, but determination seems to be the most important 
 - Piece #10: Growth Hacking === Bullshit
 - Piece #11: Focus on making a small amount of people love your product
 - Piece #12: Make something people want, stupid
+  
   *Note: The MSPWS-principle? Doesn't really roll off the tongue...*
 
 
