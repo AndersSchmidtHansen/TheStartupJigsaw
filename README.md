@@ -54,6 +54,10 @@ The Startup Jigsaw - Pieces
   
   Just go out and find people who desperately need your product.
 
+- Piece #18: Gut feel is not useful because people can't predict correctly
+  
+  Source: Chamath Palihapitiya
+
 
 ## Growth
 - Piece #10: Growth Hacking === Bullshit
