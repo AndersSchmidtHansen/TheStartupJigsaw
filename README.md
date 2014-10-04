@@ -4,7 +4,7 @@ The Startup Jigsaw - Pieces
 
 ## Uncategorized
 ### Piece #1: The 4 Areas of Startup Success
-Great idea, great product, great team and great execution. [1]
+Great idea, great product, great team and great execution. [Source] [1]
 
 *Note: Can Team be split up into Founder(s) and Team?*
 
@@ -14,7 +14,7 @@ Startup success can be, albeit a bit humorously, calculated as the following:
 	
 	Idea x Product x Team x Execution x Luck
 
-Where luck is a number between 0 and 10.000. [2]
+Where luck is a number between 0 and 10.000. [Source] [2]
 
 
 *Note: In relation to my note on Piece #1 this would add F to the equation e.g. (FxIxPxTxE)xL*
@@ -27,7 +27,7 @@ Where luck is a number between 0 and 10.000. [2]
 
 ## Founder(s)
 ### Piece #3: Determination trumps Intelligence
-It is always good to be smart, but determination seems to be the most important trait for a founder. [3]
+It is always good to be smart, but determination seems to be the most important trait for a founder. [Source] [3]
 
 
 ## Team
