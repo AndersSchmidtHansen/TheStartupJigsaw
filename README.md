@@ -52,6 +52,8 @@ The Startup Jigsaw - Pieces
 
 ## Execution
 - Piece #4: Do Things That Don't Scale
+  
+  Just go out and find people who desperately need your product.
 
 
 ## Growth
