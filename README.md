@@ -11,7 +11,6 @@ The Startup Jigsaw - Pieces
 
 - Piece #5: Great companies start with a great idea, not a pivot
 
-
 - Piece #2: The (IxPxTxE)xL equation
   
   Startup success can be, albeit a bit humorously, calculated as the following:
@@ -29,8 +28,7 @@ The Startup Jigsaw - Pieces
 - Piece #8: Side projects make better startups than conscious business ideas
 - Piece #9: Work on stuff that interests you
 - Piece #13: The best ideas always first seem crazy
-  
-  Judge by the people instead of the idea.
+- Piece #15: The specific passion should always come first, the startup second
 
 
 
@@ -43,7 +41,8 @@ The Startup Jigsaw - Pieces
   
   It is always good to be smart, but determination seems to be the most important trait for a founder. (3)
 
-- Piece #4: If you are not tough, your co-founder needs to be
+- Piece #4: If you're not tough, your co-founder needs to be
+- Piece #14: Get a co-founder
 
 
 
