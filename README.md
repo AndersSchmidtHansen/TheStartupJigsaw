@@ -62,6 +62,12 @@ The Startup Jigsaw - Pieces
   
   *Note: The MSPWS-principle? Doesn't really roll off the tongue...*
 
+- Piece #16: Short-term optimization never works
+- Piece #17: The Chamath Palihapitiya Cycle
+  
+  1. What is the thing people are here to do?
+  2. What is the aha moment they want?
+  3. Why can't I not give that to them as fast as possible?
 
 ## Sources
 --
