@@ -49,3 +49,6 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] get 10% better every week
 - [x] solve an immediate user need
 - [x] focus on generic cases, not edge cases
+- [x] have a one-liner ready before showing off
+- [x] include a clear way of contacting you
+- [x] not be Frankensteined ([#120](/../../issues/120))
