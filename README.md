@@ -11,6 +11,7 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 
 The prototypical successful startup seems to think and act in the following ways:
 
+
 **The Idea should...**
 
 - [x] begin as a sideproject
@@ -36,6 +37,10 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] "Is it a problem that other people have?"
 
 - [x] be very easy to explain and understand
+
+
+**The Founder(s) should...**
+- [x] always do sales and support in the beginning
 
 
 **The Product should...** 
