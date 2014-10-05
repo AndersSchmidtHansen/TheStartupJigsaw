@@ -26,6 +26,7 @@ The prototypical successful startup seems to think and act in the following ways
 	- Market growth (is going to be big in 10 years)
 	- Growth strategy
 	- Defensibility
+	- Startup monopoly potential ([#37](/issues/24))
 
 - answer "Yes" to the following problem evaluation questions:
 
