@@ -7,7 +7,7 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 
 
 ## The Archetype Startup
-**Note: This is just an experiment of putting together the many startup jigsaw pieces in order to see if it can form some kind of framework for a successful startup. It's a constant work in progress, so don't just jump aboard without thinking.**
+**Note: This is just an experiment of putting together the many startup jigsaw pieces in order to see if it can form some kind of framework for a potentially successful startup. It's a constant work in progress, so don't just jump aboard without thinking.**
 
 The prototypical successful startup seems to think and act in the following ways and you can evaluate your own by asking "and do/did I/we [insert thing from list here] ?":
 
