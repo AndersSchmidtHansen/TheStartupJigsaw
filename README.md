@@ -28,7 +28,7 @@ The prototypical successful startup seems to think and act in the following ways
 
 8. answer "Yes" to the following problem evaluation questions:
 
-	1. "Does the problem relate to me?"
+	1. "Does the problem relate to me?" (and how does it?)
 	2. "Am I really passionate about that problem?"
 	3. "Is it a problem that other people have?"
 
