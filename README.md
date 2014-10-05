@@ -9,7 +9,7 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 ## The Archetype Startup
 **Note: This is just an experiment of putting together the many startup jigsaw pieces in order to see if it can form some kind of framework for a successful startup. It's a constant work in progress, so don't just jump aboard without thinking.**
 
-The prototypical successful startup seems to think and act in the following ways:
+The prototypical successful startup seems to think and act in the following ways and you can evaluate your own by asking "and do/did I/we [insert thing from list here] ?":
 
 
 **The Idea should...**
@@ -53,6 +53,9 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] be more determined than intelligent
 - [x] praise their team
 - [x] agree on that 100% equity takes 4 years (starting after 1 year) within two weeks
+- [x] not (or stop) "playing house"
+- [x] trust their instincts about people
+- [x] not stop talking about growing
 
 
 **The CEO should...**
