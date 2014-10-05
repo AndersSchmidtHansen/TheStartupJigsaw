@@ -15,12 +15,12 @@ The prototypical successful startup seems to think and act in the following ways
 **The Idea...**
 
 - [x] begins as a sideproject
-- [x] is not be a conscious startup idea
+- [x] is not a conscious startup idea
 - [x] sounds crazy to others at first
-- [x] is not start with a pivot
+- [x] does not start with a pivot
 - [x] preferably scratches your own itch
 - [x] caters to one or more of your interests
-- [x] is not clone something else out there
+- [x] is not a clone something else out there
 - [x] considers the following idea evaluation criteria:
 
 	- [x] Market size
@@ -41,7 +41,7 @@ The prototypical successful startup seems to think and act in the following ways
 
 **The Founder(s)...**
 
-- [x] are not be terrified of starting a startup
+- [x] are not terrified of starting a startup
 - [x] are more than 1 person, preferably 2 or 3
 - [x] include a technical co-founder
 - [x] include a James Bond-ish co-founder ([#61](/../../issues/61))
