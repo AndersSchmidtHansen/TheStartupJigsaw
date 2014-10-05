@@ -79,6 +79,11 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] have a one-liner ready before showing off
 - [x] include a clear way of contacting you
 - [x] not be Frankensteined ([#120](/../../issues/120))
+- [x] focus on minimizing the Chamath Palihapitiya Cycle ([#18](/../../issues/18)) from days to milliseconds:
+	
+	- [x] "What is the thing people are here to do?"
+	- [x] "What is the aha moment they want?"
+	- [x] "Why can't I not give that to them as fast as possible?"
 
 
 **The Team should...**
@@ -86,3 +91,11 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] be as small as possible
 - [x] not be remote
 
+
+**The Execution should...**
+
+- [x] have a Viral Coefficient of 1.01 or higher ([#95](/../../issues/95))
+- [x] not focus on short-term optimization
+- [x] accept that growth hacking is bullshit
+- [x] focus on one channel alone for a week before moving to another
+- [x] focus on making a small amount of people love the product
