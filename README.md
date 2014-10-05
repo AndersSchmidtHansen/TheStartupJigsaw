@@ -51,6 +51,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] understand basic management skills
 - [x] know each other well (and never be random)
 - [x] be more determined than intelligent
+- [x] praise their team
 
 
 **The CEO should...**
@@ -60,7 +61,8 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] evangalize the startup's mission
 - [x] hire and manage the team
 - [x] set the execution bar
-
+- [x] fire fast
+- [x] only hire if desperate
 
 
 **The Product should...** 
@@ -77,3 +79,10 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] have a one-liner ready before showing off
 - [x] include a clear way of contacting you
 - [x] not be Frankensteined ([#120](/../../issues/120))
+
+
+**The Team should...**
+
+- [x] be as small as possible
+- [x] not be remote
+
