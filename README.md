@@ -20,7 +20,7 @@ The prototypical successful startup seems to think and act in the following ways
 5. cater to one or more of your interests.
 6. not clone something else out there.
 7. consider the following idea evaluation criteria:
-	
+
 	a. Market size
 	b. Market growth (is going to be big in 10 years)
 	c. Growth strategy
