@@ -52,6 +52,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] know each other well (and never be random)
 - [x] be more determined than intelligent
 - [x] praise their team
+- [x] agree on that 100% equity takes 4 years (starting after 1 year) within two weeks
 
 
 **The CEO should...**
