@@ -12,6 +12,7 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 The prototypical successful startup seems to think and act in the following ways:
 
 **The initial Idea should...**
+
 1. begin as a sideproject.
 2. sound crazy to others at first.
 3. not start with a pivot.
