@@ -118,4 +118,4 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] focuses on one channel alone for a week before moving to another
 - [x] focuses on making a small amount of people love the product
 - [x] is based on knowledge and not gut feeling
-- [x] consists of things that don't scale
+- [x] is based of things that don't scale
