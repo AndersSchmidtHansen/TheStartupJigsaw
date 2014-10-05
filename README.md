@@ -64,6 +64,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] only focus on 2-3 things a day
 - [x] not micromanage
 - [x] give more equity to their employees than to investors
+- [x] give ~10% of the company to the first 10 employees
 
 
 **The CEO should...**
@@ -75,6 +76,8 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] set the execution bar
 - [x] fire fast
 - [x] only hire if desperate
+- [x] does not hire mediocre engineers
+- [x] hire people with good communication skills
 
 
 **The Product should...** 
