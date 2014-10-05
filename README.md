@@ -18,7 +18,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] not be a conscious startup idea
 - [x] sound crazy to others at first
 - [x] not start with a pivot
-- [x] scratch your own itch
+- [x] preferably scratch your own itch
 - [x] cater to one or more of your interests
 - [x] not clone something else out there
 - [x] consider the following idea evaluation criteria:
@@ -86,6 +86,8 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] "What is the aha moment they want?"
 	- [x] "Why can't I not give that to them as fast as possible?"
 
+- [x] be iteratively improved through personal, conversational user feedback
+
 
 **The Team should...**
 
@@ -100,3 +102,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] accept that growth hacking is bullshit
 - [x] focus on one channel alone for a week before moving to another
 - [x] focus on making a small amount of people love the product
+- [x] always keep momentum
+- [x] not lose focus because of PR
+- [x] be based on knowledge and not gut feeling
+- [x] do things that don't scale
