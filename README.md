@@ -21,15 +21,15 @@ The prototypical successful startup seems to think and act in the following ways
 6. not clone something else out there.
 7. consider the following idea evaluation criteria:
 
-	a. Market size
-	b. Market growth (is going to be big in 10 years)
-	c. Growth strategy
-	d. Defensibility
+	1. Market size
+	2. Market growth (is going to be big in 10 years)
+	3. Growth strategy
+	4. Defensibility
 
 8. answer "Yes" to the following problem evaluation questions:
 
-	a. "Does the problem relate to me?"
-	b. "Am I really passionate about that problem?"
-	c. "Is it a problem that other people have?"
+	1. "Does the problem relate to me?"
+	2. "Am I really passionate about that problem?"
+	3. "Is it a problem that other people have?"
 
 
