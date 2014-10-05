@@ -11,15 +11,15 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 
 The prototypical successful startup seems to think and act in the following ways:
 
-**The initial Idea should...**
+**The Idea should...**
 
-- [x] begin as a sideproject.
-- [x] not be a conscious startup idea.
-- [x] sound crazy to others at first.
-- [x] not start with a pivot.
-- [x] scratch your own itch.
-- [x] cater to one or more of your interests.
-- [x] not clone something else out there.
+- [x] begin as a sideproject
+- [x] not be a conscious startup idea
+- [x] sound crazy to others at first
+- [x] not start with a pivot
+- [x] scratch your own itch
+- [x] cater to one or more of your interests
+- [x] not clone something else out there
 - [x] consider the following idea evaluation criteria:
 
 	- [x] Market size
@@ -36,3 +36,16 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] "Is it a problem that other people have?"
 
 - [x] be very easy to explain and understand
+
+
+**The Product should...** 
+
+- [x] start simple and one (or few) thing(s) really well
+- [x] start with the smallest feature set needed to solve the problem
+- [x] solve your own problem
+- [x] be loved by your users, not just liked
+- [x] be made great before creating its growth machine
+- [x] get early feedback from hand-recruited users
+- [x] get 10% better every week
+- [x] solve an immediate user need
+- [x] focus on generic cases, not edge cases
