@@ -40,7 +40,27 @@ The prototypical successful startup seems to think and act in the following ways
 
 
 **The Founder(s) should...**
+
+- [x] be more than 1, preferably between 2 and 3
+- [x] include a technical co-founder
+- [x] include a James Bond-ish co-founder ([#61](/../../issues/61))
+- [x] be tough and calm or have a co-founder that is
+- [x] have domain expertise
 - [x] always do sales and support in the beginning
+- [x] split equity evenly and early
+- [x] understand basic management skills
+- [x] know each other well (and never be random)
+- [x] be more determined than intelligent
+
+
+**The CEO should...**
+
+- [x] set the vision
+- [x] raise money
+- [x] evangalize the startup's mission
+- [x] hire and manage the team
+- [x] set the execution bar
+
 
 
 **The Product should...** 
