@@ -27,6 +27,7 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] Growth strategy
 	- [x] Defensibility
 	- [x] Startup monopoly potential ([#37](/../../issues/24))
+	- [x] Difficulty of replication ([#21](/../../issues/21))
 
 - [x] answer "Yes" to the following problem evaluation questions:
 
@@ -34,4 +35,4 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] "Am I really passionate about that problem?"
 	- [x] "Is it a problem that other people have?"
 
-
+- [x] be very easy to explain and understand
