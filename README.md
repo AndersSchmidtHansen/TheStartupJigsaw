@@ -67,57 +67,55 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] give ~10% of the company to the first 10 employees
 
 
-**The CEO should...**
+**The CEO...**
 
-- [x] set the vision
-- [x] raise money
-- [x] evangalize the startup's mission
-- [x] hire and manage the team
-- [x] set the execution bar
-- [x] fire fast
-- [x] only hire if desperate
+- [x] sets the vision
+- [x] raises money
+- [x] evangalizes the startup's mission
+- [x] hires and manages the team
+- [x] sets the execution bar
+- [x] fires fast
+- [x] only hires if desperate
 - [x] does not hire mediocre engineers
-- [x] hire people with good communication skills
+- [x] hires people with good communication skills
 
 
-**The Product should...** 
+**The Product...** 
 
-- [x] start simple and one (or few) thing(s) really well
-- [x] start with the smallest feature set needed to solve the problem
-- [x] solve your own problem
-- [x] be loved by your users, not just liked
-- [x] be optimized based on a certain corner of the customer base (in the beginning)
-- [x] be made great before creating its growth machine
-- [x] get early feedback from hand-recruited users
-- [x] get 10% better every week
-- [x] solve an immediate user need
-- [x] focus on generic cases, not edge cases
-- [x] have a one-liner ready before showing off
-- [x] include a clear way of contacting you
-- [x] not be Frankensteined ([#120](/../../issues/120))
-- [x] focus on minimizing the Chamath Palihapitiya Cycle ([#18](/../../issues/18)) from days to milliseconds:
+- [x] starts simple and one (or few) thing(s) really well
+- [x] starts with the smallest feature set needed to solve the problem
+- [x] solves your own problem
+- [x] is loved by your users, not just liked
+- [x] is optimized based on a certain corner of the customer base (in the beginning)
+- [x] is made great before creating its growth machine
+- [x] gets early feedback from hand-recruited users
+- [x] gets 10% better every week
+- [x] solves an immediate user need
+- [x] focuses on generic cases, not edge cases
+- [x] has a one-liner ready before showing off
+- [x] includes a clear way of contacting you
+- [x] is not Frankensteined ([#120](/../../issues/120))
+- [x] focuses on minimizing the Chamath Palihapitiya Cycle ([#18](/../../issues/18)) from days to milliseconds:
 	
 	- [x] "What is the thing people are here to do?"
 	- [x] "What is the aha moment they want?"
 	- [x] "Why can't I not give that to them as fast as possible?"
 
-- [x] be iteratively improved through personal, conversational user feedback
+- [x] is iteratively improved through personal, conversational user feedback
 
 
-**The Team should...**
+**The Team...**
 
-- [x] be as small as possible
-- [x] not be remote
+- [x] is as small as possible
+- [x] is not remote
+- [x] does not lose focus because of PR
+- [x] always keeps momentum
 
+**The Execution...**
 
-**The Execution should...**
-
-- [x] have a Viral Coefficient of 1.01 or higher ([#95](/../../issues/95))
-- [x] not focus on short-term optimization
-- [x] accept that growth hacking is bullshit
-- [x] focus on one channel alone for a week before moving to another
-- [x] focus on making a small amount of people love the product
-- [x] always keep momentum
-- [x] not lose focus because of PR
-- [x] be based on knowledge and not gut feeling
-- [x] do things that don't scale
+- [x] focuses on a Viral Coefficient of 1.01 or higher ([#95](/../../issues/95))
+- [x] does not focus on short-term optimizations or "growth hacks"
+- [x] focuses on one channel alone for a week before moving to another
+- [x] focuses on making a small amount of people love the product
+- [x] is based on knowledge and not gut feeling
+- [x] consists of things that don't scale
