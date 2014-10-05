@@ -12,16 +12,16 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 The prototypical successful startup seems to think and act in the following ways and you can evaluate your own by asking "and do/did I/we [insert thing from list here] ?":
 
 
-**The Idea should...**
+**The Idea...**
 
-- [x] begin as a sideproject
-- [x] not be a conscious startup idea
-- [x] sound crazy to others at first
-- [x] not start with a pivot
-- [x] preferably scratch your own itch
-- [x] cater to one or more of your interests
-- [x] not clone something else out there
-- [x] consider the following idea evaluation criteria:
+- [x] begins as a sideproject
+- [x] is not be a conscious startup idea
+- [x] sounds crazy to others at first
+- [x] is not start with a pivot
+- [x] preferably scratches your own itch
+- [x] caters to one or more of your interests
+- [x] is not clone something else out there
+- [x] considers the following idea evaluation criteria:
 
 	- [x] Market size
 	- [x] Market growth (is going to be big in 10 years)
@@ -30,39 +30,39 @@ The prototypical successful startup seems to think and act in the following ways
 	- [x] Startup monopoly potential ([#37](/../../issues/24))
 	- [x] Difficulty of replication ([#21](/../../issues/21))
 
-- [x] answer "Yes" to the following problem evaluation questions:
+- [x] answers "Yes" to the following problem evaluation questions:
 
 	- [x] "Does the problem relate to me?" (and how does it?)
 	- [x] "Am I really passionate about that problem?"
 	- [x] "Is it a problem that other people have?"
 
-- [x] be very easy to explain and understand
+- [x] is very easy to explain and understand
 
 
-**The Founder(s) should...**
+**The Founder(s)...**
 
-- [x] not be terrified of starting a startup
-- [x] be more than 1, preferably between 2 and 3
+- [x] are not be terrified of starting a startup
+- [x] are more than 1 person, preferably 2 or 3
 - [x] include a technical co-founder
 - [x] include a James Bond-ish co-founder ([#61](/../../issues/61))
-- [x] be tough and calm or have a co-founder that is
+- [x] are tough and calm or have a co-founder that is
 - [x] have domain expertise
 - [x] always do sales and support in the beginning
 - [x] split equity evenly and early
 - [x] understand basic management skills
 - [x] know each other well (and never be random)
-- [x] be more determined than intelligent
+- [x] are more determined than intelligent
 - [x] praise their team
 - [x] agree on that 100% equity takes 4 years (starting after 1 year) within two weeks
-- [x] not (or stop) "playing house" ([#48](/../../issues/48))
+- [x] do not "play house" ([#48](/../../issues/48))
 - [x] trust their instincts about people
-- [x] not stop talking about growing
+- [x] do not stop talking about growing
 - [x] immerse themselves into their industry
 - [x] accept that the startup will take over their lives
 - [x] accept that startups cannot be gamed
 - [x] have a lot of time on their hands to focus on the startup
 - [x] only focus on 2-3 things a day
-- [x] not micromanage
+- [x] do not micromanage
 - [x] give more equity to their employees than to investors
 - [x] give ~10% of the company to the first 10 employees
 
