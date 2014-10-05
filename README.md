@@ -53,7 +53,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] be more determined than intelligent
 - [x] praise their team
 - [x] agree on that 100% equity takes 4 years (starting after 1 year) within two weeks
-- [x] not (or stop) "playing house"
+- [x] not (or stop) "playing house" ([#48](/../../issues/48))
 - [x] trust their instincts about people
 - [x] not stop talking about growing
 
