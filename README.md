@@ -41,6 +41,7 @@ The prototypical successful startup seems to think and act in the following ways
 
 **The Founder(s) should...**
 
+- [x] not be terrified of starting a startup
 - [x] be more than 1, preferably between 2 and 3
 - [x] include a technical co-founder
 - [x] include a James Bond-ish co-founder ([#61](/../../issues/61))
@@ -56,6 +57,13 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] not (or stop) "playing house" ([#48](/../../issues/48))
 - [x] trust their instincts about people
 - [x] not stop talking about growing
+- [x] immerse themselves into their industry
+- [x] accept that the startup will take over their lives
+- [x] accept that startups cannot be gamed
+- [x] have a lot of time on their hands to focus on the startup
+- [x] only focus on 2-3 things a day
+- [x] not micromanage
+- [x] give more equity to their employees than to investors
 
 
 **The CEO should...**
@@ -75,6 +83,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] start with the smallest feature set needed to solve the problem
 - [x] solve your own problem
 - [x] be loved by your users, not just liked
+- [x] be optimized based on a certain corner of the customer base (in the beginning)
 - [x] be made great before creating its growth machine
 - [x] get early feedback from hand-recruited users
 - [x] get 10% better every week
