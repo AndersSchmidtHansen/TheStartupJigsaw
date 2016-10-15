@@ -133,7 +133,7 @@ The prototypical successful startup seems to think and act in the following ways
 **Not yet organized**
 - [x] Don’t ever let yourself feel like you’ve won before you have.
 - [x] Don't waste time on fake work, e.g speaking at conferences, talking to the media, or rearchitecting their infrastructure.
-- [] keep burn rate at a minimum until you've achieved a product people love.
-- [] every day, figure out 2-3 things that are the most important and do those. Ignore distractions.
-- [] have a strategy.
-- [] 
+- [x] keep burn rate at a minimum until you've achieved a product people love.
+- [x] every day, figure out 2-3 things that are the most important and do those. Ignore distractions.
+- [x] have a strategy.
+- [x] 
