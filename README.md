@@ -7,9 +7,15 @@ them in the [Issues Area](https://github.com/AndersSchmidtHansen/thestartupjigsa
 
 
 ## The Archetype Startup
-**Note: This is just an experiment of putting together the many startup jigsaw pieces in order to see if it can form some kind of framework for a potentially successful startup. It's a constant work in progress, so don't just jump aboard without thinking.**
+**Note: This is just an experiment of putting together the many startup jigsaw pieces in order to see if it can form some kind of framework for a potentially successful tech startup. It's a constant work in progress, so don't just jump aboard without thinking. Also, most of this is relevant to startups who have yet to find product/market fit, so young startups are the focal point here.**
 
-The prototypical successful startup seems to think and act in the following ways and you can evaluate your own by asking "and do/did I/we [insert thing from list here] ?":
+## The Methodology
+Is pretty straihtforward. Take pieces of the TONS of startup advice out there and smash them together here in order to (maybe) discover patterns. 
+
+
+## Without any furthe ado.
+
+The prototypical successful startup seems to think and act in the following ways":
 
 
 **The Idea...**
@@ -38,6 +44,8 @@ The prototypical successful startup seems to think and act in the following ways
 
 - [x] is very easy to explain and understand
 
+**The Market**
+- [x] is preferably fast-growing rather than a large, slow-growing market
 
 **The Founder(s)...**
 
@@ -82,7 +90,7 @@ The prototypical successful startup seems to think and act in the following ways
 
 **The Product...** 
 
-- [x] starts simple and one (or few) thing(s) really well
+- [x] starts simple and does one (or few) thing(s) really well
 - [x] starts with the smallest feature set needed to solve the problem
 - [x] solves your own problem
 - [x] is loved by your users, not just liked
@@ -91,6 +99,7 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] gets early feedback from hand-recruited users
 - [x] gets 10% better every week
 - [x] solves an immediate user need
+- [x] is something you know people want, not just something you think would want
 - [x] focuses on generic cases, not edge cases
 - [x] has a one-liner ready before showing off
 - [x] includes a clear way of contacting you
@@ -119,3 +128,12 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] focuses on making a small amount of people love the product
 - [x] is based on knowledge and not gut feeling
 - [x] is based of things that don't scale
+
+
+**Not yet organized**
+- [x] Don’t ever let yourself feel like you’ve won before you have.
+- [x] Don't waste time on fake work, e.g speaking at conferences, talking to the media, or rearchitecting their infrastructure.
+- [] keep burn rate at a minimum until you've achieved a product people love.
+- [] every day, figure out 2-3 things that are the most important and do those. Ignore distractions.
+- [] have a strategy.
+- [] 
