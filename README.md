@@ -136,4 +136,4 @@ The prototypical successful startup seems to think and act in the following ways
 - [x] keep burn rate at a minimum until you've achieved a product people love.
 - [x] every day, figure out 2-3 things that are the most important and do those. Ignore distractions.
 - [x] have a strategy.
-- [x] 
+- [x] Change your name, so you can have the .com ending (and is easy to remember and pronounce). 100% of top 20 YC companies had .com, along with 94% of the top 50. (PG)
